@@ -14,8 +14,7 @@ https://github.com/zask45/android-basic-compose-birthday-card-app
 ---
 - IDE: Android Studio
 - Language: Kotlin
-- API: API 19 (Android 4.4, "KitKat")
-- Tested Phone: Pixel 5
+- Minimum API: API 14 (Android 4.4, "KitKat")
 
 ### Demo
 ---
